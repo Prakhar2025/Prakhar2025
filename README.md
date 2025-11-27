@@ -88,12 +88,12 @@ I am a final-year **Computer Science Engineer** passionate about building scalab
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?userPrakhar2025&theme=radical" alt="streak graph" />
 </div>
 
 ---
