@@ -93,7 +93,7 @@ I am a final-year **Computer Science Engineer** passionate about building scalab
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?userPrakhar2025&theme=radical" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak graph" />
 </div>
 
 ---
