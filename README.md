@@ -73,18 +73,6 @@ I am a final-year **Computer Science Engineer** passionate about building scalab
 
 ---
 
-### 🏆 Honors & Achievements
-
-| Award | Event | Details |
-| :--- | :--- | :--- |
-| **Top 15 Winner** | **SBI Youth Ideathon 2025** | IIT Delhi (Selected from 15,000+ submissions) |
-| **Top 20 Finalist** | **Beyond Profits** | BITS Pilani Hyderabad |
-| **1st Runner-Up** | **Hack Wack 2.0** | Hackathon 2025 (300+ participants) |
-| **1st Runner-Up** | **HackAlthon** | Azure Developer Community & Reskilll |
-| **NPTEL Elite** | **Certification** | Programming in C++ |
-
----
-
 ## 📄 Research Publications
 
 ### **1️⃣ Deepfake Detection Using Advanced Hybrid Approaches**  
@@ -105,7 +93,17 @@ I am a final-year **Computer Science Engineer** passionate about building scalab
 
 > Conducted an extensive comparison of state-of-the-art deepfake detection techniques, evaluating performance across multiple datasets using image and video forgery benchmarks.
 
+### 🏆 Honors & Achievements
 
+| Award | Event | Details |
+| :--- | :--- | :--- |
+| **Top 15 Winner** | **SBI Youth Ideathon 2025** | IIT Delhi (Selected from 15,000+ submissions) |
+| **Top 20 Finalist** | **Beyond Profits** | BITS Pilani Hyderabad |
+| **1st Runner-Up** | **Hack Wack 2.0** | Hackathon 2025 (300+ participants) |
+| **1st Runner-Up** | **HackAlthon** | Azure Developer Community & Reskilll |
+| **NPTEL Elite** | **Certification** | Programming in C++ |
+
+---
 
 ### 📊 GitHub Stats
 
