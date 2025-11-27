@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/prakhar-shukla-471649261">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:prakhar230125@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
@@ -84,6 +84,28 @@ I am a final-year **Computer Science Engineer** passionate about building scalab
 | **NPTEL Elite** | **Certification** | Programming in C++ |
 
 ---
+
+## 📄 Research Publications
+
+### **1️⃣ Deepfake Detection Using Advanced Hybrid Approaches**  
+**Journal:** *iManager Journal on Image Processing (JIP)*  
+**Status:** Published — September 2025  
+**DOI:** [10.26634/jip.12.3.22384](https://doi.org/10.26634/jip.12.3.22384)  
+**Link:** [Read Paper](https://imanagerpublications.com/article/22384)
+
+> Developed a hybrid deepfake detection model integrating CNN, LSTM, and frequency-domain features. Demonstrated high accuracy on video-based and image-based datasets.
+
+---
+
+### **2️⃣ Comprehensive Deepfake Detection: A Comparative Study on Image and Video Forgery**  
+**Conference:** *IEEE PuneCon 2025*  
+**Status:** **Accepted — To Be Published (December 2025)**  
+**DOI:** *Will be updated after publication*  
+**Link:** *To be added after IEEE Xplore release*
+
+> Conducted an extensive comparison of state-of-the-art deepfake detection techniques, evaluating performance across multiple datasets using image and video forgery benchmarks.
+
+
 
 ### 📊 GitHub Stats
 
