@@ -54,11 +54,16 @@ I am a final-year **Computer Science Engineer** passionate about building scalab
 
 ### 📂 Featured Projects
 
-#### 🤖 [Deepfake Detection System (National Winner)](YOUR_REPO_LINK_HERE)
+#### 🤖 [Deepfake Detection System (National Winner)](https://github.com/Prakhar2025/Truth-Shield)
 *Led a team to build a real-time detection system achieving **89% accuracy**.*
 - **Tech:** Python, TensorFlow, OpenCV, Flask, Streamlit.
 - **Impact:** Optimized inference latency by **35%** for live video analysis.
 - **Recognition:** Ranked Top 15 at SBI Youth Ideathon 2025 (IIT Delhi) among 15,000+ submissions.
+
+#### 💰 [Legal Contract Compliance Monitor](https://github.com/Prakhar2025/NLP-Legal-Compilance-System)
+•	Built an NLP-powered auditing system for 5 legal domains (Liability, IP Rights). Engineered a Risk Stratification Engine using NLTK to classify clauses as High/Medium/Low risk.
+•	Developed a Full-Stack dashboard (React + Flask) for real-time visualization of compliance metrics.
+
 
 #### 👁️ [Age-Adaptive Facial Recognition](YOUR_REPO_LINK_HERE)
 *Security operations system for identifying individuals across significant age gaps.*
@@ -66,10 +71,7 @@ I am a final-year **Computer Science Engineer** passionate about building scalab
 - **Key Feature:** Implemented Bhattacharyya distance metrics to handle temporal facial changes.
 - **Optimization:** Optimized GPU processing for real-time target identification.
 
-#### 💰 [Finance Tracker Web App](YOUR_REPO_LINK_HERE)
-*End-to-end financial management application.*
-- **Tech:** React, MySQL, JWT Auth, Chart.js.
-- **Features:** Secure authentication and interactive data visualization via RESTful APIs.
+
 
 ---
 
