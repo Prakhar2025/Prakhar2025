@@ -52,7 +52,7 @@ I am a final-year Computer Science Engineer specializing in **Deep Learning**, *
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical&hide_border=true)
 
@@ -63,5 +63,5 @@ I am a final-year Computer Science Engineer specializing in **Deep Learning**, *
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-471649261)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prakhar230125@gmail.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Prakhar2025&label=Profile%20Views&color=12&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Prakhar2025&label=Profile%20Views&color=0e75b6&style=flat)
 
