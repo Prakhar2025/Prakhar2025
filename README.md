@@ -52,9 +52,11 @@ I am a final-year Computer Science Engineer specializing in **Deep Learning**, *
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2025&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical&hide_border=true)
+![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
