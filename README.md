@@ -14,7 +14,7 @@ I am a final-year Computer Science Engineer specializing in **Deep Learning**, *
 | Title | Venue | Status | Links |
 | :--- | :--- | :--- | :--- |
 | **Comprehensive Deepfake Detection: A Comparative Study** | IEEE PuneCon 2025 | Accepted | [Code](https://github.com/Prakhar2025/Truth-Shield) |
-| **Advanced Deepfake Image Detection Framework** | i-manager's JIP | Published | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
+| **Advanced Deepfake Image Detection Framework** | i-manager's JIP | [Published](https://imanagerpublications.com/article/22384) | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
 
 ---
 
@@ -38,8 +38,10 @@ I am a final-year Computer Science Engineer specializing in **Deep Learning**, *
 
 ### 🚀 Featured Projects
 
-- **[Truth Shield](https://github.com/Prakhar2025/Truth-Shield):** Award-winning Deepfake Detection System achieving **91.5% accuracy**. *National Winner @ IIT Delhi.*  
-  [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://truthshieldai.vercel.app/) [![Paper](https://img.shields.io/badge/-IEEE_Paper-blue?logo=ieee)](ieee-link)
+- **[Truth Shield](https://github.com/Prakhar2025/Truth-Shield):** Award-winning Deepfake Detection System achieving **91.5% accuracy** on video deepfakes. *National Winner @ IIT Delhi.*  
+  [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://truthshieldai.vercel.app/) 
+  [![IEEE Paper](https://img.shields.io/badge/-IEEE_Paper-Dec_2025-orange?logo=ieee)](https://github.com/Prakhar2025/Truth-Shield)
+  [![Published Paper](https://img.shields.io/badge/-Image_Paper-blue?logo=ieee)](https://imanagerpublications.com/article/22384)
 
 - **[Legal Compliance Monitor](https://github.com/Prakhar2025/NLP-Legal-Compliance-System):** NLP-powered auditing system for legal contracts with risk stratification.  
   [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://legal-compliance-monitor.netlify.app/)
@@ -59,4 +61,4 @@ I am a final-year Computer Science Engineer specializing in **Deep Learning**, *
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-471649261)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prakhar230125@gmail.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=12&pretty=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=Prakhar2025&label=Profile%20Views&color=12&pretty=true)
