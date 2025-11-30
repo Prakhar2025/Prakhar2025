@@ -39,9 +39,9 @@ I am a final-year Computer Science Engineer specializing in **Deep Learning**, *
 ### 🚀 Featured Projects
 
 - **[Truth Shield](https://github.com/Prakhar2025/Truth-Shield):** Award-winning Deepfake Detection System achieving **91.5% accuracy** on video deepfakes. *National Winner @ IIT Delhi.*  
-  [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://truthshieldai.vercel.app/) 
-  [![IEEE Paper](https://img.shields.io/badge/-IEEE_Paper-Dec_2025-orange?logo=ieee)](https://github.com/Prakhar2025/Truth-Shield)
-  [![Published Paper](https://img.shields.io/badge/-Image_Paper-blue?logo=ieee)](https://imanagerpublications.com/article/22384)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=vercel&logoColor=white)](https://truthshieldai.vercel.app/)
+  [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-Dec_2025-orange?style=flat&logo=ieee&logoColor=white)](https://github.com/Prakhar2025/Truth-Shield)
+  [![i-manager Paper](https://img.shields.io/badge/i--manager_JIP-Published-blue?style=flat&logo=bookstack&logoColor=white)](https://imanagerpublications.com/article/22384)
 
 - **[Legal Compliance Monitor](https://github.com/Prakhar2025/NLP-Legal-Compliance-System):** NLP-powered auditing system for legal contracts with risk stratification.  
   [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://legal-compliance-monitor.netlify.app/)
