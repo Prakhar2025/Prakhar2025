@@ -1,124 +1,62 @@
-<div align="center">
-  <h1 align="center">Hi, I'm Prakhar Shukla! 👋</h1>
-  <h3>AI/ML Enthusiast | Full Stack Developer | Software Optimizer</h3>
-  
-  <a href="https://www.linkedin.com/in/prakhar-shukla-471649261">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prakhar230125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</div>
+### Hi, I'm Prakhar Shukla! 👋
+**AI Researcher | Computer Vision Specialist | Team Lead**
+
+I am a final-year Computer Science Engineer specializing in **Deep Learning**, **Media Forensics**, and **NLP**. My work focuses on building scalable, adversarial defense systems against deepfakes and automating legal compliance using Natural Language Processing.
+
+- 🔭 **Current Focus:** Real-time Deepfake Detection using Hybrid CNN-LSTM Architectures.
+- 🏆 **National Winner:** Ranked Top 15 at **SBI Youth Ideathon 2025 (IIT Delhi)** out of 15,000+ teams.
+- 📄 **Research:** Published author in **IEEE PuneCon** and **i-manager's JIP**.
 
 ---
 
-### 🚀 About Me
-I am a final-year **Computer Science Engineer** passionate about building scalable, efficient solutions that bridge AI innovation and practical software engineering. My focus lies in **Computer Vision**, **Deep Learning**, and **Full Stack Development**.
+### 🔬 Research & Publications
 
-- 🔭 I’m currently working on **Advanced Deepfake Detection Systems**.
-- 🏆 **National Winner:** Ranked Top 15 at SBI Youth Ideathon 2025 (IIT Delhi).
-- 💻 **Tech Stack:** Python, C++, React.js, TensorFlow, OpenCV.
-- 🎓 **Education:** B.Tech in CSE from S. B. Jain Institute (CGPA: 8.79).
-
----
-
-### 🛠️ Technical Skills
-
-<div align="left">
-  
-**Languages:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-
-**AI & Machine Learning:** <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-
-**Web Development:** <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-
-**Backend & Databases:** <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-
-**Tools:** <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-
-</div>
+| Title | Venue | Status | Links |
+| :--- | :--- | :--- | :--- |
+| **Comprehensive Deepfake Detection: A Comparative Study** | IEEE PuneCon 2025 | Accepted | [Code](https://github.com/Prakhar2025/Truth-Shield) |
+| **Advanced Deepfake Image Detection Framework** | i-manager's JIP | Published | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Technical Arsenal
 
-#### 🤖 [Deepfake Detection System (National Winner)](https://github.com/Prakhar2025/Truth-Shield)
-*Led a team to build a real-time detection system achieving **89% accuracy**.*
-- **Tech:** Python, TensorFlow, OpenCV, Flask, Streamlit.
-- **Impact:** Optimized inference latency by **35%** for live video analysis.
-- **Recognition:** Ranked Top 15 at SBI Youth Ideathon 2025 (IIT Delhi) among 15,000+ submissions.
+| Domain | Technologies |
+| :--- | :--- |
+| **Deep Learning** | TensorFlow, PyTorch, Keras, CNN, LSTM, ResNet50, Transfer Learning |
+| **Computer Vision** | OpenCV, Haar Cascades, Face Forensics |
+| **NLP & GenAI** | NLTK, Transformers (Exploring), Pattern Matching |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| **Full Stack** | Python, React.js, Flask, Streamlit |
 
-#### 💰 [Legal Contract Compliance Monitor](https://github.com/Prakhar2025/NLP-Legal-Compilance-System)
-•	Built an NLP-powered auditing system for 5 legal domains (Liability, IP Rights). Engineered a Risk Stratification Engine using NLTK to classify clauses as High/Medium/Low risk.
-•	Developed a Full-Stack dashboard (React + Flask) for real-time visualization of compliance metrics.
-
-
-#### 👁️ [Age-Adaptive Facial Recognition](YOUR_REPO_LINK_HERE)
-*Security operations system for identifying individuals across significant age gaps.*
-- **Tech:** OpenCV, Haar Cascade, Histogram Comparison.
-- **Key Feature:** Implemented Bhattacharyya distance metrics to handle temporal facial changes.
-- **Optimization:** Optimized GPU processing for real-time target identification.
-
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
-## 📄 Research Publications
+### 🚀 Featured Projects
 
-### **1️⃣ Deepfake Detection Using Advanced Hybrid Approaches**  
-**Journal:** *iManager Journal on Image Processing (JIP)*  
-**Status:** Published — September 2025  
-**DOI:** [10.26634/jip.12.3.22384](https://doi.org/10.26634/jip.12.3.22384)  
-**Link:** [Read Paper](https://imanagerpublications.com/article/22384)
+- **[Truth Shield](https://github.com/Prakhar2025/Truth-Shield):** Award-winning Deepfake Detection System achieving **91.5% accuracy**. *National Winner @ IIT Delhi.*  
+  [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://truthshieldai.vercel.app/) [![Paper](https://img.shields.io/badge/-IEEE_Paper-blue?logo=ieee)](ieee-link)
 
-> Developed a hybrid deepfake detection model integrating CNN, LSTM, and frequency-domain features. Demonstrated high accuracy on video-based and image-based datasets.
+- **[Legal Compliance Monitor](https://github.com/Prakhar2025/NLP-Legal-Compliance-System):** NLP-powered auditing system for legal contracts with risk stratification.  
+  [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://legal-compliance-monitor.netlify.app/)
 
----
-
-### **2️⃣ Comprehensive Deepfake Detection: A Comparative Study on Image and Video Forgery**  
-**Conference:** *IEEE PuneCon 2025*  
-**Status:** **Accepted — To Be Published (December 2025)**  
-**DOI:** *Will be updated after publication*  
-**Link:** *To be added after IEEE Xplore release*
-
-> Conducted an extensive comparison of state-of-the-art deepfake detection techniques, evaluating performance across multiple datasets using image and video forgery benchmarks.
-
-### 🏆 Honors & Achievements
-
-| Award | Event | Details |
-| :--- | :--- | :--- |
-| **Top 15 Winner** | **SBI Youth Ideathon 2025** | IIT Delhi (Selected from 15,000+ submissions) |
-| **Top 20 Finalist** | **Beyond Profits** | BITS Pilani Hyderabad |
-| **1st Runner-Up** | **Hack Wack 2.0** | Hackathon 2025 (300+ participants) |
-| **1st Runner-Up** | **HackAlthon** | Azure Developer Community & Reskilll |
-| **NPTEL Elite** | **Certification** | Programming in C++ |
+- **[Age-Invariant Recognition](https://github.com/yourusername/Age-Invariant-Face-Rec):** Robust face recognition algorithm identifying individuals across age gaps.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Prakhar2025&theme=radical" alt="streak graph" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical&hide_border=true)
 
 ---
-<p align="center">
-  <i>"Passionate about building scalable, efficient solutions."</i>
-</p>
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-471649261)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prakhar230125@gmail.com)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=12&pretty=true)
