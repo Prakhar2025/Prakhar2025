@@ -72,13 +72,9 @@ Vercel • Render • Firebase • PostgreSQL • Supabase • MongoDB • Clerk
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2025&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2025&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=radical&no-frame=true&margin-w=6)
 
 
 ---
