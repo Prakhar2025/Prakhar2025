@@ -31,7 +31,7 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 | **Paper Title** | **Venue** | **Status** | **Links** |
 | :--- | :--- | :--- | :--- |
 | **Comprehensive Deepfake Detection: A Comparative Study** | IEEE PuneCon 2025 | Accepted | [Code](https://github.com/Prakhar2025/Truth-Shield) |
-| **Research on Deepfake Detection in Image Processing** | i-manager’s JIP | Published | [Paper](https://imanagerpublications.com/article/22384) • [DOI](https://doi.org/10.26634/jip.12.3.22384) |
+| **Research on Deepfake Detection in Image Processing** | i-manager’s JIP | [Published](https://imanagerpublications.com/article/22384) | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
 
 ---
 
@@ -54,7 +54,7 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
 
 **AI & Machine Learning**
 <br>
@@ -112,13 +112,14 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prakhar2025&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github" alt="Awesome GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Prakhar2025&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
