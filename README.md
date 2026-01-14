@@ -112,20 +112,19 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Prakhar2025&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github" alt="Awesome GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
 
 ---
