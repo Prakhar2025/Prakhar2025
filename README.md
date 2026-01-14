@@ -28,10 +28,10 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 
 ### 📚 Publications & Research
 
-| **Paper Title** | **Publication / Journal** | **Status/Date** |
-| :--- | :--- | :--- |
-| **Comprehensive Deepfake Detection: A Comparative Study** | **IEEE PuneCon 2025** (International Conference) | *Accepted (Dec 2025)* |
-| **Research on Deepfake Detection in Image Processing** | **i-manager’s Journal on Image Processing** | *Published (Sept 2025)* |
+| **Paper Title** | **Venue** | **Status** | **Links** |
+| :--- | :--- | :--- | :--- |
+| **Comprehensive Deepfake Detection: A Comparative Study** | IEEE PuneCon 2025 | Accepted | [Code](https://github.com/Prakhar2025/Truth-Shield) |
+| **Research on Deepfake Detection in Image Processing** | i-manager’s JIP | Published | [Paper](https://imanagerpublications.com/article/22384) • [DOI](https://doi.org/10.26634/jip.12.3.22384) |
 
 ---
 
@@ -70,32 +70,31 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 ### 📂 Featured Projects
 
 #### 💎 [EthAum AI - SaaS Marketplace](YOUR_GITHUB_LINK)
-*Full-Stack SaaS Platform | Next.js 14, FastAPI, Supabase*
-> A production-ready AI SaaS marketplace handling user roles, payments, and automation.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=vercel&logoColor=white)](https://ethaumai.vercel.app/)
+> **Full-Stack SaaS Platform** | *Next.js 14, FastAPI, Supabase*
 - **Tech:** Built with **Next.js 14, TypeScript, and Python (FastAPI)**.
 - **Features:** AI-powered sentiment analysis & trust scoring system.
 - **Scale:** Deployed 7,000+ lines of code; includes Role-Based Access Control (RBAC).
 
-#### 📱 [LearnSphere - Mobile LMS](YOUR_GITHUB_LINK)
-*Cross-Platform Mobile App | React Native, Expo, Firebase*
-> A mobile Learning Management System (LMS) with 15,000+ lines of code.
-- **Engineering:** Engineered a **custom chromeless video player** with gesture controls.
-- **Security:** Implemented secure JWT authentication and prevented external navigation.
-- **Performance:** Optimized content delivery for 40% faster load times.
-
 #### 🛡️ [Truth Shield - Deepfake Detection](YOUR_GITHUB_LINK)
-*National Winner (SBI Ideathon) | AI Security Research*
-> India's first advanced on-device deepfake detection system.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=vercel&logoColor=white)](https://truthshieldai.vercel.app/) [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-Dec_2025-orange?style=flat&logo=ieee&logoColor=white)](https://github.com/Prakhar2025/Truth-Shield) [![i-manager Paper](https://img.shields.io/badge/i--manager_JIP-Published-blue?style=flat&logo=bookstack&logoColor=white)](https://imanagerpublications.com/article/22384)
+> **National Winner (SBI Ideathon)** | *AI Security Research*
 - **Impact:** Ranked **Top 15** at SBI Youth Ideathon (15,000+ teams).
 - **Tech:** Real-time analysis using **TensorFlow & OpenCV**.
 - **Research:** Algorithms validated in IEEE & i-manager publications.
 
 #### ⚖️ [Legal Compliance Monitor](YOUR_GITHUB_LINK)
-*NLP-Powered Auditing System | AI & Risk Analysis*
-> Automated system for legal contract analysis and risk stratification.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=netlify&logoColor=white)](https://legal-compliance-monitor.netlify.app/)
+> **NLP-Powered Auditing System** | *AI & Risk Analysis*
 - **Tech:** Python, NLP (Natural Language Processing), Transformers.
 - **Function:** Automates auditing processes to identify high-risk clauses in contracts.
 - **Impact:** Reduces manual review time by stratifying documents based on compliance risk.
+
+#### 📱 [LearnSphere - Mobile LMS](YOUR_GITHUB_LINK)
+> **Cross-Platform Mobile App** | *React Native, Expo, Firebase*
+- **Engineering:** Engineered a **custom chromeless video player** with gesture controls.
+- **Security:** Implemented secure JWT authentication and prevented external navigation.
+- **Performance:** Optimized content delivery for 40% faster load times.
 
 ---
 
