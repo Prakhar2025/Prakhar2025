@@ -1,69 +1,89 @@
-### Hi, I'm Prakhar Shukla! 👋
-**AI Researcher | Computer Vision Specialist | Team Lead**
+### Hi, I'm Prakhar Shukla 👋
+**Software Engineer | Product & Full-Stack Development | Applied AI Systems**
 
-I am a final-year Computer Science Engineer specializing in **Deep Learning**, **Media Forensics**, and **NLP**. My work focuses on building scalable, adversarial defense systems against deepfakes and automating legal compliance using Natural Language Processing.
+I’m a final-year Computer Science Engineer who builds **production-ready web, mobile, and SaaS products**, with hands-on experience in **applied AI systems**. I focus on shipping real-world solutions end-to-end — from UI and APIs to deployment — using modern engineering tools and AI where it adds value.
 
-- 🔭 **Current Focus:** Real-time Deepfake Detection using Hybrid CNN-LSTM Architectures.
-- 🏆 **National Winner:** Ranked Top 15 at **SBI Youth Ideathon 2025 (IIT Delhi)** out of 15,000+ teams.
-- 📄 **Research:** Published author in **IEEE PuneCon** and **i-manager's JIP**.
-
----
-
-### 🔬 Research & Publications
-
-| Title | Venue | Status | Links |
-| :--- | :--- | :--- | :--- |
-| **Comprehensive Deepfake Detection: A Comparative Study** | IEEE PuneCon 2025 | Accepted | [Code](https://github.com/Prakhar2025/Truth-Shield) |
-| **Advanced Deepfake Image Detection Framework** | i-manager's JIP | [Published](https://imanagerpublications.com/article/22384) | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
+- 💻 **Focus:** Product engineering, full-stack development, scalable applications  
+- 🧠 **Applied AI:** Deepfake detection, NLP systems, AI-driven scoring & automation  
+- 🏆 **National Winner:** SBI Youth Ideathon 2025 (**IIT Delhi**, Top 15 / 15,000+ teams)  
+- 📄 **Research:** IEEE & i-manager published (Applied AI)
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🚀 Featured Projects
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Deep Learning** | TensorFlow, PyTorch, Keras, CNN, LSTM, ResNet50, Transfer Learning |
-| **Computer Vision** | OpenCV, Haar Cascades, Face Forensics |
-| **NLP & GenAI** | NLTK, Transformers (Exploring), Pattern Matching |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
-| **Full Stack** | Python, React.js, Flask, Streamlit |
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+### **LearnSphere — Mobile Learning Platform**
+**React Native • TypeScript • Firebase • Node.js**
+- Cross-platform LMS with role-based access (students/admins)  
+- Custom secure video player with gesture controls  
+- Scalable backend APIs and authentication
 
 ---
 
-### 🚀 Featured Projects
-
-- **[Truth Shield](https://github.com/Prakhar2025/Truth-Shield):** Award-winning Deepfake Detection System achieving **91.5% accuracy** on video deepfakes. *National Winner @ IIT Delhi.*  
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=vercel&logoColor=white)](https://truthshieldai.vercel.app/)
-  [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-Dec_2025-orange?style=flat&logo=ieee&logoColor=white)](https://github.com/Prakhar2025/Truth-Shield)
-  [![i-manager Paper](https://img.shields.io/badge/i--manager_JIP-Published-blue?style=flat&logo=bookstack&logoColor=white)](https://imanagerpublications.com/article/22384)
-
-- **[Legal Compliance Monitor](https://github.com/Prakhar2025/NLP-Legal-Compliance-System):** NLP-powered auditing system for legal contracts with risk stratification.  
-  [![Live Demo](https://img.shields.io/badge/-Live_Demo-success?logo=vercel)](https://legal-compliance-monitor.netlify.app/)
-
-- **[Age-Invariant Recognition](https://github.com/yourusername/Age-Invariant-Face-Rec):** Robust face recognition algorithm identifying individuals across age gaps.
+### **EthAum AI — SaaS Marketplace Platform**
+**Next.js • TypeScript • FastAPI • Python**
+- Full-stack SaaS platform for startup discovery and comparison  
+- AI-driven credibility scoring using weighted heuristics  
+- Deployed on Vercel & Render with documented APIs
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2025&theme=radical&hide_border=true)
-
-![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### **Truth Shield — Deepfake Detection System**
+**Computer Vision • Deep Learning**
+- Award-winning applied AI system for deepfake detection  
+- National Winner @ IIT Delhi, IEEE published  
+- Designed for real-world robustness
 
 ---
 
-### 📫 Let's Connect
+### **Legal Compliance Monitor**
+**Python • React • NLP • Flask**
+- NLP-powered auditing system for legal contracts with risk stratification  
+- Clause detection, risk scoring, and compliance breakdown  
+- Deployed with production-ready API and UI
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-471649261)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prakhar230125@gmail.com)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prakhar2025&label=Profile%20Views&color=0e75b6&style=flat)
+## 🔬 Research & Publications
 
+| Title | Venue | Status | Link |
+|------|------|------|------|
+| **Comprehensive Deepfake Detection: A Comparative Study** | IEEE PuneCon 2025 | Accepted | [Repo](https://github.com/Prakhar2025/Truth-Shield) |
+| **Advanced Deepfake Image Detection Framework** | i-manager’s JIP | Published | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+C++ • JavaScript • TypeScript • Python • SQL  
+
+**Frontend & Mobile**  
+React • Next.js • React Native • HTML • CSS  
+
+**Backend & APIs**  
+Node.js • Express • FastAPI • Flask • REST APIs  
+
+**Cloud, Databases & Tools**  
+Vercel • Render • Firebase • PostgreSQL • Supabase • MongoDB • Clerk Auth • Git • GitHub
+
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prakhar2025&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=radical&no-frame=true&margin-w=6)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/prakhar-shukla-471649261  
+- 🌐 Portfolio: https://your-portfolio-link  
+- ✉️ Email: prakhar230125@gmail.com
