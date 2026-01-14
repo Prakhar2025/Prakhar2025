@@ -111,21 +111,13 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prakhar2025&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github" alt="Awesome GitHub Stats" />
-</div>
 
-<br>
+![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
