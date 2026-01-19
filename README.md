@@ -112,12 +112,12 @@ I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap
 ### 📊 GitHub Activity
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Prakhar2025&theme=highcontrast)](https://git.io/streak-stats)
+
 
 
 ![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prakhar2025&theme=onedark)](https://github.com/Prakhar2025/github-profile-trophy)
+
 
 ---
 
