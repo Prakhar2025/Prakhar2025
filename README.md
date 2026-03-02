@@ -1,90 +1,119 @@
 <div align="center">
 
-# Prakhar Shukla  
-### Agentic AI Engineer • Production Systems Builder
+# Prakhar Shukla
+### Full-Stack AI Engineer | Agentic Systems Builder
 
-Building deployable AI systems, automation platforms, and scalable SaaS products.
+Building production-grade AI infrastructure, automation engines, and scalable SaaS platforms.
 
-[LinkedIn](https://www.linkedin.com/in/prakhar-shukla-471649261) • 
-[Portfolio](https://prakhar-dev-portfolio.vercel.app/) • 
-[Email](mailto:prakhar230125@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/prakhar-shukla-471649261) •
+[Portfolio](https://prakhar-dev-portfolio.vercel.app/) •
+Email: prakhar230125@gmail.com
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## ⚡ Engineering Focus
 
-I design and ship **production-grade AI systems** — not just models, but complete infrastructure:
+- Agentic AI systems & workflow automation
+- Serverless AI infrastructure (AWS)
+- Scalable REST API architectures
+- AI + SaaS product engineering
+- End-to-end full-stack deployments
 
-- Serverless AI architectures (AWS Lambda, API Gateway, DynamoDB)
-- Agentic AI systems with orchestration logic
-- Full-stack SaaS platforms (Next.js + FastAPI)
-- Scalable REST APIs & automation workflows
-- Mobile apps deployed to production
-
-I focus on **real-world deployment, performance, and system design.**
+I build AI systems that are **deployed, structured, and production-ready**.
 
 ---
 
-## 🧠 Featured Systems
+# 🧠 Core Projects
 
-### 🛡 TruthLayer — AI Hallucination Firewall  
-> Real-time AI verification engine for LLM outputs
+---
 
-- Serverless AWS architecture (Lambda + API Gateway + DynamoDB)
-- Semantic claim verification using embeddings
-- Confidence-based classification: VERIFIED / UNCERTAIN / UNSUPPORTED
+## 🛡️ TruthLayer — AI Hallucination Firewall  
+**Role:** Full-Stack AI Engineer & System Architect  
+**Tech:** Python, AWS Lambda, API Gateway, DynamoDB, Next.js, TypeScript  
+
+🔗 Repository: https://github.com/Prakhar2025/TruthLayer  
+
+**What it is:**  
+A real-time AI verification API that intercepts LLM responses, extracts factual claims, and validates them against source documents using semantic embeddings.
+
+**Architecture Highlights:**
+- Fully serverless AWS stack (4 Lambdas + API Gateway + DynamoDB)
+- Embedding-based claim verification engine
+- Confidence scoring system (VERIFIED / UNCERTAIN / UNSUPPORTED)
 - Python SDK + TypeScript SDK
-- 94%+ verification precision
+- Infrastructure packaged via AWS SAM
+- Achieved 94%+ verification precision
 
-Architected as an AI trust layer between models and users.
-
----
-
-### 🔥 ScamShield — Agentic AI Honeypot  
-> Autonomous scam intelligence extraction system
-
-- Multi-persona AI agents (LLM-powered)
-- Real-time financial data extraction & classification
-- 13+ REST APIs (FastAPI)
-- Full-stack dashboard (Next.js + MongoDB)
-- Production deployment (Render + Vercel)
-
-Built as an adaptive AI system that interacts, reasons, and extracts structured intelligence.
+Designed as a trust layer between AI systems and end users.
 
 ---
 
-### 💎 EthAum AI — AI-Powered SaaS Marketplace  
-> AI-native startup discovery & credibility platform
+## 🔥 ScamShield — Agentic AI Honeypot  
+**Role:** Full-Stack AI Engineer  
+**Tech:** FastAPI, MongoDB, Next.js, LLaMA 3.3 (Groq), REST APIs  
 
+🔗 Repository: https://github.com/Prakhar2025/Agentic-Honey-Pot  
+
+**What it is:**  
+An autonomous AI system that engages scammers, extracts structured financial intelligence, and classifies scam types in real time.
+
+**Engineering Highlights:**
+- Multi-persona AI interaction engine
+- 13+ REST API endpoints
+- Real-time extraction (regex + NLP pipelines)
+- Dashboard for intelligence tracking
+- Fully deployed backend + frontend
+
+Grand Finalist — India AI Impact Buildathon (Top 2% of 40,000+)
+
+---
+
+## 💎 EthAum AI — AI-Powered SaaS Marketplace  
+**Role:** Full-Stack Engineer  
+**Tech:** Next.js, FastAPI, PostgreSQL, Supabase  
+
+🔗 Repository: https://github.com/Prakhar2025/EthAum-Venture-Partners  
+🔗 Live: https://ethaumai.vercel.app  
+
+**What it is:**  
+A full-stack AI-powered SaaS marketplace combining Product Hunt + G2 + Gartner-style credibility systems.
+
+**Engineering Highlights:**
 - 50+ REST API endpoints
-- AI trust scoring via sentiment + engagement signals
-- Role-based system (Founder / Buyer / Admin)
-- Fully deployed (Vercel + Render)
-- 7,000+ lines production codebase
-
-Designed as a scalable SaaS architecture combining marketplace + analytics.
+- AI trust-scoring via sentiment analysis
+- Role-based architecture (Founder / Buyer / Admin)
+- 7,000+ lines production code
+- Fully deployed multi-service stack
 
 ---
 
-## 🛠 Tech Stack
+# 📊 GitHub Activity
 
-**Frontend**
-React • Next.js • TypeScript • Tailwind CSS • React Native  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=radical)
 
-**Backend**
-FastAPI • Node.js • REST APIs • Authentication • Database Design  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=radical)
 
-**Cloud & Infra**
+---
+
+# 🛠 Tech Stack
+
+**Frontend:**  
+React • Next.js • TypeScript • Tailwind • React Native  
+
+**Backend:**  
+FastAPI • Node.js • REST APIs • Authentication • System Design  
+
+**Cloud / Infra:**  
 AWS Lambda • API Gateway • DynamoDB • Supabase • Firebase • Vercel  
 
-**AI / ML**
+**AI / ML:**  
 Python • Embeddings • NLP • TensorFlow • OpenCV • PyTorch  
 
 ---
 
-## 🏆 Recognition
+# 🏆 Selected Achievements
 
 - National Winner — SBI Youth Ideathon (IIT Delhi)
 - Top 2% Finalist — India AI Impact Buildathon (40,000+ participants)
@@ -92,24 +121,3 @@ Python • Embeddings • NLP • TensorFlow • OpenCV • PyTorch
 - Multiple Hackathon Podium Finishes
 
 ---
-
-## 📈 Engineering Principles
-
-- Ship fast without sacrificing structure  
-- Design systems, not scripts  
-- Optimize for production, not prototypes  
-- Think in architecture, not just code  
-
----
-
-## 📬 Open To
-
-Agentic AI systems, backend-heavy roles, early-stage AI startups, and high-impact engineering work.
-
----
-
-<div align="center">
-
-Always building. Always shipping.
-
-</div>
