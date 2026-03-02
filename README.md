@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Prakhar Shukla 👋</h1>
   <h3>Full-Stack Engineer · Agentic AI Builder · IEEE Published Researcher</h3>
-  <p><i>Building production-grade AI systems and SaaS products that ship.</i></p>
+  <p><i>Architecting agentic AI systems and scalable automation platforms deployed to real users.</i></p>
 
   <a href="https://www.linkedin.com/in/prakhar-shukla-471649261">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -127,8 +127,8 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 
 | Paper | Venue | Status | Links |
 | :--- | :--- | :--- | :--- |
-| Comprehensive Deepfake Detection: A Comparative Study on Image and Video Forgery | **IEEE PuneCon 2025** | Published | [GitHub](https://github.com/Prakhar2025/Truth-Shield) |
-| Advanced Deepfake Image Detection: A Robust Framework using InceptionV3 and Xception | **i-manager's JIP** | Published | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
+| Comprehensive Deepfake Detection: A Comparative Study on Image and Video Forgery | **IEEE PuneCon 2025** | [Published](https://ieeexplore.ieee.org/document/11379757) | [IEEE](https://ieeexplore.ieee.org/document/11379757) · [GitHub](https://github.com/Prakhar2025/Truth-Shield) |
+| Advanced Deepfake Image Detection: A Robust Framework using InceptionV3 and Xception | **i-manager's JIP** | [Published](https://imanagerpublications.com/article/22384) | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
 
 ---
 
@@ -150,11 +150,11 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 
 <div align="center">
 
-![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2025&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2025&theme=tokyonight&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakhar2025&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakhar2025&theme=tokyonight)  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakhar2025&theme=tokyonight)
 
 </div>
 
