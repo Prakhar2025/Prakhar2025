@@ -1,136 +1,115 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Prakhar Shukla 👋</h1>
-  <h3>Software Engineer | AI Researcher | Full Stack Developer</h3>
-  <p><i>Building scalable SaaS platforms, mobile apps, and defense-grade AI systems.</i></p>
 
-  <a href="https://www.linkedin.com/in/prakhar-shukla-471649261">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:prakhar230125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://prakhar-dev-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+# Prakhar Shukla  
+### Agentic AI Engineer • Production Systems Builder
 
----
+Building deployable AI systems, automation platforms, and scalable SaaS products.
 
-### 🚀 About Me
-I am a final-year **Computer Science Engineer** (CGPA: 8.79) who bridges the gap between **AI Research** and **Production Engineering**. I don't just build models; I deploy them into scalable web and mobile applications.
-
-- 🔭 **Engineering:** Building production-ready SaaS (Next.js) and Mobile Apps (React Native).
-- 🧠 **Research:** Published Author (IEEE & i-manager) specializing in Deepfake Detection & Media Forensics.
-- 🏆 **Recognition:** Ranked **Top 15 National Winner** at SBI Youth Ideathon 2025 (IIT Delhi).
-- ⚡ **Focus:** Real-time AI, SaaS Architecture, and Cross-Platform Mobile Dev.
-
----
-
-### 📚 Publications & Research
-
-| **Paper Title** | **Venue** | **Status** | **Links** |
-| :--- | :--- | :--- | :--- |
-| **Comprehensive Deepfake Detection: A Comparative Study** | IEEE PuneCon 2025 | Accepted | [Code](https://github.com/Prakhar2025/Truth-Shield) |
-| **Research on Deepfake Detection in Image Processing** | i-manager’s JIP | [Published](https://imanagerpublications.com/article/22384) | [DOI](https://doi.org/10.26634/jip.12.3.22384) |
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-
-**Frontend & Mobile**
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-
-**Backend & Cloud**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-
-
-**AI & Machine Learning**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+[LinkedIn](https://www.linkedin.com/in/prakhar-shukla-471649261) • 
+[Portfolio](https://prakhar-dev-portfolio.vercel.app/) • 
+[Email](mailto:prakhar230125@gmail.com)
 
 </div>
 
 ---
 
-### 📂 Featured Projects
+## 🚀 What I Do
 
-#### 💎 [EthAum AI - SaaS Marketplace](YOUR_GITHUB_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=vercel&logoColor=white)](https://ethaumai.vercel.app/)
-> **Full-Stack SaaS Platform** | *Next.js 14, FastAPI, Supabase*
-- **Tech:** Built with **Next.js 14, TypeScript, and Python (FastAPI)**.
-- **Features:** AI-powered sentiment analysis & trust scoring system.
-- **Scale:** Deployed 7,000+ lines of code; includes Role-Based Access Control (RBAC).
+I design and ship **production-grade AI systems** — not just models, but complete infrastructure:
 
-#### 🛡️ [Truth Shield - Deepfake Detection](YOUR_GITHUB_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=vercel&logoColor=white)](https://truthshieldai.vercel.app/) [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-Dec_2025-orange?style=flat&logo=ieee&logoColor=white)](https://github.com/Prakhar2025/Truth-Shield) [![i-manager Paper](https://img.shields.io/badge/i--manager_JIP-Published-blue?style=flat&logo=bookstack&logoColor=white)](https://imanagerpublications.com/article/22384)
-> **National Winner (SBI Ideathon)** | *AI Security Research*
-- **Impact:** Ranked **Top 15** at SBI Youth Ideathon (15,000+ teams).
-- **Tech:** Real-time analysis using **TensorFlow & OpenCV**.
-- **Research:** Algorithms validated in IEEE & i-manager publications.
+- Serverless AI architectures (AWS Lambda, API Gateway, DynamoDB)
+- Agentic AI systems with orchestration logic
+- Full-stack SaaS platforms (Next.js + FastAPI)
+- Scalable REST APIs & automation workflows
+- Mobile apps deployed to production
 
-#### ⚖️ [Legal Compliance Monitor](YOUR_GITHUB_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat&logo=netlify&logoColor=white)](https://legal-compliance-monitor.netlify.app/)
-> **NLP-Powered Auditing System** | *AI & Risk Analysis*
-- **Tech:** Python, NLP (Natural Language Processing), Transformers.
-- **Function:** Automates auditing processes to identify high-risk clauses in contracts.
-- **Impact:** Reduces manual review time by stratifying documents based on compliance risk.
-
-#### 📱 [LearnSphere - Mobile LMS](YOUR_GITHUB_LINK)
-> **Cross-Platform Mobile App** | *React Native, Expo, Firebase*
-- **Engineering:** Engineered a **custom chromeless video player** with gesture controls.
-- **Security:** Implemented secure JWT authentication and prevented external navigation.
-- **Performance:** Optimized content delivery for 40% faster load times.
+I focus on **real-world deployment, performance, and system design.**
 
 ---
 
-### 🏆 Honors & Achievements
+## 🧠 Featured Systems
 
-| Award | Event | Details |
-| :--- | :--- | :--- |
-| **National Winner (Top 15)** | **SBI Youth Ideathon 2025** | IIT Delhi (Selected from 15,000+ teams) |
-| **Top 20 Finalist** | **Azim Premji & BITS Pilani** | AI-driven Security Solutions |
-| **1st Runner-Up** | **Hack Wack 2.0** | 300+ Participants (Deepfake Tech) |
-| **1st Runner-Up** | **HackAlthon** | Azure Developer Community |
+### 🛡 TruthLayer — AI Hallucination Firewall  
+> Real-time AI verification engine for LLM outputs
 
----
+- Serverless AWS architecture (Lambda + API Gateway + DynamoDB)
+- Semantic claim verification using embeddings
+- Confidence-based classification: VERIFIED / UNCERTAIN / UNSUPPORTED
+- Python SDK + TypeScript SDK
+- 94%+ verification precision
 
-### 📊 GitHub Activity
-
-
-
-
-
-![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Prakhar2025?theme=radical&cardType=github)
-
-
+Architected as an AI trust layer between models and users.
 
 ---
 
-### 📫 Let's Connect
+### 🔥 ScamShield — Agentic AI Honeypot  
+> Autonomous scam intelligence extraction system
+
+- Multi-persona AI agents (LLM-powered)
+- Real-time financial data extraction & classification
+- 13+ REST APIs (FastAPI)
+- Full-stack dashboard (Next.js + MongoDB)
+- Production deployment (Render + Vercel)
+
+Built as an adaptive AI system that interacts, reasons, and extracts structured intelligence.
+
+---
+
+### 💎 EthAum AI — AI-Powered SaaS Marketplace  
+> AI-native startup discovery & credibility platform
+
+- 50+ REST API endpoints
+- AI trust scoring via sentiment + engagement signals
+- Role-based system (Founder / Buyer / Admin)
+- Fully deployed (Vercel + Render)
+- 7,000+ lines production codebase
+
+Designed as a scalable SaaS architecture combining marketplace + analytics.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+React • Next.js • TypeScript • Tailwind CSS • React Native  
+
+**Backend**
+FastAPI • Node.js • REST APIs • Authentication • Database Design  
+
+**Cloud & Infra**
+AWS Lambda • API Gateway • DynamoDB • Supabase • Firebase • Vercel  
+
+**AI / ML**
+Python • Embeddings • NLP • TensorFlow • OpenCV • PyTorch  
+
+---
+
+## 🏆 Recognition
+
+- National Winner — SBI Youth Ideathon (IIT Delhi)
+- Top 2% Finalist — India AI Impact Buildathon (40,000+ participants)
+- Published Research — Deepfake Detection (IEEE & i-manager)
+- Multiple Hackathon Podium Finishes
+
+---
+
+## 📈 Engineering Principles
+
+- Ship fast without sacrificing structure  
+- Design systems, not scripts  
+- Optimize for production, not prototypes  
+- Think in architecture, not just code  
+
+---
+
+## 📬 Open To
+
+Agentic AI systems, backend-heavy roles, early-stage AI startups, and high-impact engineering work.
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-471649261)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prakhar230125@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-dev-portfolio.vercel.app/)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Prakhar2025&label=Profile%20Views&color=0e75b6&style=flat)
+Always building. Always shipping.
 
 </div>
