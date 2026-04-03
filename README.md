@@ -63,8 +63,31 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-Titan_Embeddings-FF9900?style=flat&logo=amazonaws)
 
 ---
-
 ### 📂 Featured Projects
+
+#### 🔬 [TruthLayer — AI Hallucination Firewall](https://github.com/Prakhar2025/TruthLayer)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22C55E?style=flat&logo=vercel&logoColor=white)](https://truth-layer.vercel.app/)
+[![AWS Competition](https://img.shields.io/badge/Top_300_Global-AWS_AIdeas_Competition-FF9900?style=flat&logo=amazonaws)](https://github.com/Prakhar2025/TruthLayer)
+
+> Real-time hallucination detection API — verifies AI outputs against source documents in under 100ms.
+
+- Serverless AWS (Lambda + API Gateway + DynamoDB) · Bedrock Titan Embeddings V2 (1024-dim)
+- Claim extraction → cosine similarity → confidence pipeline (VERIFIED / UNCERTAIN / UNSUPPORTED)
+- **94.53% verification precision** · Python SDK + TypeScript SDK · Next.js real-time dashboard
+- **Top 1,000 Semi-Finalist** — AWS 10,000 AIdeas Competition (Global)
+---
+
+#### 🧠 [VentureNode — Autonomous AI OS](https://github.com/Prakhar2025/VentureNode)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22C55E?style=flat&logo=vercel&logoColor=white)](https://venture-node.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Source-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar2025/VentureNode)
+
+> The Autonomous AI Operating System for Startups. Uses multi-agent pipelines to automatically analyze ideas and conduct market research.
+
+- Multi-agent LangGraph pipeline · Bi-directional Notion MCP integration
+- Automated market analysis, competitor research, and startup execution drafting
+- **Stack:** TypeScript · LangGraph · Notion API · Next.js
+
+---
 
 #### 🛡️ [ScamShield — Agentic AI Honeypot](https://github.com/Prakhar2025/Agentic-Honey-Pot)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22C55E?style=flat&logo=vercel&logoColor=white)](https://scamshield-honeypot.vercel.app/)
@@ -75,18 +98,6 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 - 5 adaptive LLM personas (LLaMA 3.3-70b via Groq) · 8 scam type classifications · 98% extraction accuracy
 - 13+ FastAPI REST endpoints · Next.js 14 dashboard · MongoDB Atlas · Deployed on Render + Vercel
 - **Grand Finalist** — India AI Impact Buildathon 2026 (Top 2% of 40,000+ participants)
-
----
-
-#### 🔬 [TruthLayer — AI Hallucination Firewall](https://github.com/Prakhar2025/TruthLayer)
-[![AWS Competition](https://img.shields.io/badge/Top_1000_Global-AWS_AIdeas_Competition-FF9900?style=flat&logo=amazonaws)](https://github.com/Prakhar2025/TruthLayer)
-
-> Real-time hallucination detection API — verifies AI outputs against source documents in under 100ms.
-
-- Serverless AWS (Lambda + API Gateway + DynamoDB) · Bedrock Titan Embeddings V2 (1024-dim)
-- Claim extraction → cosine similarity → confidence pipeline (VERIFIED / UNCERTAIN / UNSUPPORTED)
-- **94.53% verification precision** · Python SDK + TypeScript SDK · Next.js real-time dashboard
-- **Top 1,000 Semi-Finalist** — AWS 10,000 AIdeas Competition (Global)
 
 ---
 
@@ -114,14 +125,6 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 
 ---
 
-#### 📱 [Ustad — LMS Mobile App](https://github.com/Prakhar2025)
-> Full-stack LMS app built for a client — shipped to Google Play Store during internship at Anishree Technologies.
-
-- Role-based access (Admin + Student) · Razorpay payment gateway · Firebase Auth + Firestore
-- Node.js + Express REST API · Google Drive video delivery · EAS Build Android AAB
-- **Stack:** React Native · Expo · Firebase · Node.js · Express.js
-
----
 
 ### 📚 Research Publications
 
@@ -138,7 +141,7 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 | :--- | :--- | :--- |
 | 🥇 **National Winner (Top 15 of 15,000+ teams)** | SBI Youth Ideathon 2025 — IIT Delhi | INR 20,000 Prize |
 | 🏅 **Grand Finalist — Top 2% of 40,000+** | India AI Impact Buildathon 2026 (HCL GUVI) | Presented at Bharat Mandapam, New Delhi |
-| 🌐 **Top 1,000 Global Semi-Finalist** | AWS 10,000 AIdeas Competition | TruthLayer — AI Hallucination Firewall |
+| 🌐 **Top 300 Global Semi-Finalist** | AWS 10,000 AIdeas Competition | TruthLayer — AI Hallucination Firewall |
 | 🎖️ **National Innovation Finalist** | Azim Premji University & BITS Pilani Hyderabad | AI-driven Security System |
 | 🥈 **1st Runner-Up** | Hack Wack 2.0 2025 | Deepfake Detection (300+ participants) |
 | 🎯 **1st Runner-Up** | HackAlthon — Azure Developer Community | |
