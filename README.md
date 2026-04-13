@@ -31,7 +31,7 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 - 🔧 **Full-Stack** — Next.js + FastAPI + TypeScript, shipped end-to-end
 - 📱 **Mobile** — 2 apps live on **Google Play Store**
 - 📄 **Research** — IEEE & i-manager published, Deepfake Detection
-- 🏆 **Recognition** — National winner IIT Delhi · HCL GUVI Top 2% of 40,000+ · AWS AIdeas Top 1,000 Global
+- 🏆 **Recognition** — National winner IIT Delhi · HCL GUVI Top 2% of 40,000+ · AWS AIdeas Top 50 Global Finalist
 
 ---
 
@@ -74,7 +74,7 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 - Serverless AWS (Lambda + API Gateway + DynamoDB) · Bedrock Titan Embeddings V2 (1024-dim)
 - Claim extraction → cosine similarity → confidence pipeline (VERIFIED / UNCERTAIN / UNSUPPORTED)
 - **94.53% verification precision** · Python SDK + TypeScript SDK · Next.js real-time dashboard
-- **Top 1,000 Semi-Finalist** — AWS 10,000 AIdeas Competition (Global)
+- **Top 50 Global Finalist** — AWS 10,000 AIdeas Competition (Global)
 ---
 
 #### 🧠 [VentureNode — Autonomous AI OS](https://github.com/Prakhar2025/VentureNode)
@@ -141,7 +141,7 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 | :--- | :--- | :--- |
 | 🥇 **National Winner (Top 15 of 15,000+ teams)** | SBI Youth Ideathon 2025 — IIT Delhi | INR 20,000 Prize |
 | 🏅 **Grand Finalist — Top 2% of 40,000+** | India AI Impact Buildathon 2026 (HCL GUVI) | Presented at Bharat Mandapam, New Delhi |
-| 🌐 **Top 300 Global Semi-Finalist** | AWS 10,000 AIdeas Competition | TruthLayer — AI Hallucination Firewall |
+| 🌐 **Top 50 Global Finalist** | AWS 10,000 AIdeas Competition | TruthLayer — AI Hallucination Firewall |
 | 🎖️ **National Innovation Finalist** | Azim Premji University & BITS Pilani Hyderabad | AI-driven Security System |
 | 🥈 **1st Runner-Up** | Hack Wack 2.0 2025 | Deepfake Detection (300+ participants) |
 | 🎯 **1st Runner-Up** | HackAlthon — Azure Developer Community | |
