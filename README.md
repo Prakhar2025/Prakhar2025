@@ -25,7 +25,11 @@
 
 ### 🚀 About Me
 
-Final-year **CS Engineer** (2026) who builds AI systems and full-stack products that go to **production** — not just demos.
+I'm building the AI Trust Layer — infrastructure that makes AI outputs verifiable, adversarially resilient, and governable.
+
+Most AI builders focus on making models smarter. I focus on making them trustworthy. Over the past year I've shipped three production systems — a hallucination firewall (Top 50 globally, AWS AIdeas), an agentic scam intelligence platform (Top 2% of 40,000+), and a B2B AI governance marketplace — that together form a unified trust infrastructure for AI pipelines.
+
+Think: SSL for AI.
 
 - 🤖 **Agentic AI** — Built autonomous LLM agents deployed to real users
 - 🔧 **Full-Stack** — Next.js + FastAPI + TypeScript, shipped end-to-end
@@ -64,6 +68,8 @@ Final-year **CS Engineer** (2026) who builds AI systems and full-stack products 
 
 ---
 ### 📂 Featured Projects
+
+🏗️ AI Trust Layer — Three production systems, one platform
 
 #### 🔬 [TruthLayer — AI Hallucination Firewall](https://github.com/Prakhar2025/TruthLayer)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22C55E?style=flat&logo=vercel&logoColor=white)](https://truth-layer.vercel.app/)
