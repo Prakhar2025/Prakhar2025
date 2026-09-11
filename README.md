@@ -83,7 +83,8 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 
 #### 2. [Gatehouse - Autonomous Fraud-Defense Agent for Households](https://github.com/Prakhar2025/gatehouse)
 [![Source](https://img.shields.io/badge/Source-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar2025/gatehouse)
-[![Status](https://img.shields.io/badge/Staging-Live_household_soak-22C55E?style=flat)](https://github.com/Prakhar2025/gatehouse)
+[![Live Console](https://img.shields.io/badge/Live_Console-Open-22C55E?style=flat&logo=vercel&logoColor=white)](https://d2p659vmmc9l0e.cloudfront.net)
+[![Demo](https://img.shields.io/badge/Demo-5_min_video-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/n695eKHMIbY)
 
 > Family members forward any suspicious message or payment request; a Strands agent team investigates it like a professional fraud analyst and escalates only genuine decisions to the family guardian, with a hash-chained evidence bundle.
 
