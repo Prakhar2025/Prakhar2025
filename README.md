@@ -146,8 +146,6 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 - **Stack:** Next.js 14 · FastAPI · PostgreSQL · Supabase · Clerk Auth
 
 
-- [VentureNode - Autonomous AI OS for Startups](https://github.com/Prakhar2025/VentureNode) - multi-agent LangGraph pipeline for idea analysis and market research *(TypeScript · LangGraph · Notion MCP · Next.js)*
-- [Canvas AI - Generative UI Workspace](https://github.com/Prakhar2025/canvas.ai) - natural language → state-managed UI, 9 generative components, 10 AI tools *(Next.js 15 · Tambo AI SDK · Framer Motion)* · [demo](https://youtu.be/RehnLLqULJ8)
 
 </details>
 
