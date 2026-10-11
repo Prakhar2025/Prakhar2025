@@ -121,6 +121,10 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 - **Top 50 Global Finalist - AWS 10,000 AIdeas Competition**
 - **Stack:** Python · Next.js · AWS Lambda · Bedrock
 
+<details>
+<summary><b>View More Shipped Systems (SignalGate, ScamShield, EthAum)</b></summary>
+
+
 #### [ScamShield - Agentic AI Honeypot](https://github.com/Prakhar2025/Agentic-Honey-Pot)
 [![Source](https://img.shields.io/badge/Source-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar2025/Agentic-Honey-Pot)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22C55E?style=flat&logo=vercel&logoColor=white)](https://scamshield-honeypot.vercel.app/)
@@ -141,8 +145,6 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 - Role-based access (Founder, Buyer, Admin) · 50+ REST endpoints · 7,000+ lines, solo-built and fully deployed
 - **Stack:** Next.js 14 · FastAPI · PostgreSQL · Supabase · Clerk Auth
 
-<details>
-<summary><b>More builds</b></summary>
 
 - [VentureNode - Autonomous AI OS for Startups](https://github.com/Prakhar2025/VentureNode) - multi-agent LangGraph pipeline for idea analysis and market research *(TypeScript · LangGraph · Notion MCP · Next.js)*
 - [Canvas AI - Generative UI Workspace](https://github.com/Prakhar2025/canvas.ai) - natural language → state-managed UI, 9 generative components, 10 AI tools *(Next.js 15 · Tambo AI SDK · Framer Motion)* · [demo](https://youtu.be/RehnLLqULJ8)
