@@ -52,16 +52,16 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
           ┌──────────────────────┬───────────┴───────────┬──────────────────────┐
           ▼                      ▼                        ▼                      ▼
    ┌─────────────┐        ┌─────────────┐          ┌─────────────┐       ┌─────────────┐
-   │  SENTINEL   │        │  GATEHOUSE  │          │ SIGNALGATE  │       │ TRUTHLAYER  │
-   │ cross-mrcht │        │ household   │          │ quant       │       │ LLM output  │
-   │ fraud graph │        │ scam agent  │          │ integrity   │       │ firewall    │
+   │  SENTINEL   │        │  GATEHOUSE  │          │ ANTARES     │       │ TRUTHLAYER  │
+   │ cross-mrcht │        │ household   │          │ agent       │       │ LLM output  │
+   │ fraud graph │        │ scam agent  │          │ governor    │       │ firewall    │
    ├─────────────┤        ├─────────────┤          ├─────────────┤       ├─────────────┤
-   │ 0.857 F1    │        │ 1.00 / 1.00 │          │ 0.925 catch │       │ 95.33% prec │
-   │ p50 2.3 ms  │        │ 0.0% f-gate │          │ p = 0.00029 │       │ 5-signal    │
-   │ +₹38.6k/1k  │        │ $0.00026/cs │          │ byte-repro  │       │ McNemar✓    │
+   │ 0.857 F1    │        │ 1.00 / 1.00 │          │1.000 recall │       │ 95.33% prec │
+   │ p50 2.3 ms  │        │ 0.0% f-gate │          │ code vetp   │       │ 5-signal    │
+   │ +₹38.6k/1k  │        │ $0.00026/cs │          │110 test CI  │       │ McNemar✓    │
    └─────────────┘        └─────────────┘          └─────────────┘       └─────────────┘
-   defense-only           real-household            recommends,           calibrated
-   fraud scoring          soak, live                never trades          confidence
+   defense-only           real-household            deterministic,          calibrated
+   fraud scoring          soak, live                execution               confidence
 ```
 
 ---
@@ -265,7 +265,7 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-471649261)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:prakhar230125@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-dev-portfolio.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-shukla.vercel.app/)
   [![X](https://img.shields.io/badge/-@prakhar__builds-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/prakhar_builds)
 </div>
 
