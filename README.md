@@ -42,26 +42,26 @@
 
 ### The AI Trust Layer
 
-Most builders make models *faster*. I make their outputs *trustworthy* - verifiable, adversarially tested, and safe to put next to money. Five production systems, one thesis: **models propose, deterministic code decides.**
+Most builders make models *faster*. I make their outputs *trustworthy* - verifiable, adversarially tested, and safe to put next to money. Core production systems, one thesis: **models propose, deterministic code decides.**
 
 ```
                      ┌──────────────────────────────────────────────┐
                      │             THE AI TRUST LAYER               │
                      │      models propose · code decides           │
                      └───────────────────────┬──────────────────────┘
-          ┌──────────────────────┬───────────┴───────────┬──────────────────────┐
-          ▼                      ▼                        ▼                      ▼
-   ┌─────────────┐        ┌─────────────┐          ┌─────────────┐       ┌─────────────┐
-   │  SENTINEL   │        │  GATEHOUSE  │          │ ANTARES     │       │ TRUTHLAYER  │
-   │ cross-mrcht │        │ household   │          │ agent       │       │ LLM output  │
-   │ fraud graph │        │ scam agent  │          │ governor    │       │ firewall    │
-   ├─────────────┤        ├─────────────┤          ├─────────────┤       ├─────────────┤
-   │ 0.857 F1    │        │ 1.00 / 1.00 │          │1.000 recall │       │ 95.33% prec │
-   │ p50 2.3 ms  │        │ 0.0% f-gate │          │ code vetp   │       │ 5-signal    │
-   │ +₹38.6k/1k  │        │ $0.00026/cs │          │110 test CI  │       │ McNemar✓    │
-   └─────────────┘        └─────────────┘          └─────────────┘       └─────────────┘
-   defense-only           real-household            deterministic,          calibrated
-   fraud scoring          soak, live                execution               confidence
+                     ┌───────────────────────┼───────────────────────┐
+                     ▼                       ▼                       ▼
+              ┌─────────────┐         ┌─────────────┐         ┌─────────────┐
+              │  SENTINEL   │         │  GATEHOUSE  │         │ TRUTHLAYER  │
+              │ cross-mrcht │         │  household  │         │ LLM output  │
+              │ fraud graph │         │ scam agent  │         │  firewall   │
+              ├─────────────┤         ├─────────────┤         ├─────────────┤
+              │  0.857 F1   │         │ 1.00 / 1.00 │         │ 95.33% prec │
+              │ p50 2.3 ms  │         │ 0.0% f-gate │         │  5-signal   │
+              │ +₹38.6k/1k  │         │ $0.00026/cs │         │  McNemar✓   │
+              └─────────────┘         └─────────────┘         └─────────────┘
+               defense-only           real-household             calibrated
+               fraud scoring            soak, live               confidence
 ```
 
 ---
