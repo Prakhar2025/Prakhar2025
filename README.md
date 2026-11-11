@@ -66,7 +66,7 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 
 ---
 
-### Featured - Fraud Defense & Research Integrity
+### Featured - The AI Trust Layer
 
 #### 1. [Sentinel - Cross-Merchant Fraud Ring Watchroom](https://github.com/Prakhar2025/Sentinel)
 [![Source](https://img.shields.io/badge/Source-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar2025/Sentinel)
@@ -93,22 +93,7 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 - Graduated silence law (`SILENT_KILL → AGENT_SCREEN → BADGED_RING → PASS`): settled scams never page a human; degraded cases always stay visible. PII scrubbing proven by CI canary strings
 - **Stack:** Python · Strands Agents SDK · AWS Lambda · Bedrock (Nova Micro) · DynamoDB · EventBridge · Next.js
 
-#### 3. [SignalGate - Agentic Research-Integrity Gate](https://github.com/Prakhar2025/SignalGate)
-[![Source](https://img.shields.io/badge/Source-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar2025/SignalGate)
-[![Repro](https://img.shields.io/badge/Eval-Byte--identical_in_CI-8B5CF6?style=flat)](https://github.com/Prakhar2025/SignalGate)
-
-> Candidate quant trading signals investigated like fraud cases - statistical probes as tools, verdicts with receipts, silence unless a signal deserves a researcher's hour. Recommends, never trades.
-
-- Static lint + investigator agent + 4 sandboxed verification probes (timestamp alignment · label permutation · regime subsample · turnover/cost sanity) → `REJECT_SPURIOUS / NEEDS_REVIEW / PROMISING`, each with numeric receipts; thresholds live in code, never in the model
-- **Measured (60 seeded cases, 6 strata, 48 dev / 12 sealed hold-out):** spurious catch **0.925** vs lint baseline 0.475 (+0.450) · prose-hidden lookahead **0.0 → 1.0** · false-reject **0.0** · McNemar **p = 0.00029** · byte-identical repro asserted in CI
-- Honest changelog: a bare-prompt agent hit 1.0 catch but false-rejected 0.875 of sound signals - the four probes are the contribution that restored false-reject to 0.0
-- **Stack:** Python · FastAPI · Typer CLI · HTMX/Tailwind (zero Node build) · sandboxed subprocess probes
-
----
-
-### Featured - AI Trust Layer Foundations
-
-#### [TruthLayer - AI Hallucination Firewall](https://github.com/Prakhar2025/TruthLayer)
+#### 3. [TruthLayer - AI Hallucination Firewall](https://github.com/Prakhar2025/TruthLayer)
 [![Source](https://img.shields.io/badge/Source-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar2025/TruthLayer)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-22C55E?style=flat&logo=vercel&logoColor=white)](https://truth-layer.vercel.app/)
 [![AWS AIdeas](https://img.shields.io/badge/Top_50_Global_Finalist-AWS_10%2C000_AIdeas-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/Prakhar2025/TruthLayer)
@@ -123,6 +108,16 @@ Most builders make models *faster*. I make their outputs *trustworthy* - verifia
 
 <details>
 <summary><b>View More Shipped Systems (SignalGate, ScamShield, EthAum)</b></summary>
+
+#### [SignalGate - Agentic Research-Integrity Gate](https://github.com/Prakhar2025/SignalGate)
+[![Source](https://img.shields.io/badge/Source-View-181717?style=flat&logo=github&logoColor=white)](https://github.com/Prakhar2025/SignalGate)
+[![Repro](https://img.shields.io/badge/Eval-Byte--identical_in_CI-8B5CF6?style=flat)](https://github.com/Prakhar2025/SignalGate)
+
+> Candidate quant trading signals investigated like fraud cases - statistical probes as tools, verdicts with receipts, silence unless a signal deserves a researcher's hour. Recommends, never trades.
+
+- Static lint + investigator agent + 4 sandboxed verification probes (timestamp alignment · label permutation · regime subsample · turnover/cost sanity) → REJECT_SPURIOUS / NEEDS_REVIEW / PROMISING, each with numeric receipts
+- **Measured (60 seeded cases):** spurious catch **0.925** vs lint baseline 0.475 · false-reject **0.0** · McNemar **p = 0.00029** · byte-identical repro asserted in CI
+- **Stack:** Python · FastAPI · Typer CLI · HTMX/Tailwind · sandboxed subprocess probes
 
 
 #### [ScamShield - Agentic AI Honeypot](https://github.com/Prakhar2025/Agentic-Honey-Pot)
