@@ -36,7 +36,7 @@
 | **Stack** | TypeScript · Next.js · Python · FastAPI · AWS (Lambda, Bedrock, DynamoDB) · PostgreSQL · MongoDB |
 | **Proof** | 5 systems shipped with held-out metrics & CI-gated repro · 2 apps live on Google Play |
 | **Research** | 2 published papers - IEEE PuneCon 2025 · i-manager JIP (deepfake detection) |
-| **Recognition** | AWS AIdeas Top 50 Global · India AI Impact Grand Finalist (Top 2% of 40,000+) · SBI Youth Ideathon National Winner (IIT Delhi) |
+| **Recognition** | AWS AIdeas Top 50 Global Finalist · India AI Impact Grand Finalist (Top 2% of 40,000+) · SBI Youth Ideathon National Winner (IIT Delhi) |
 
 ---
 
