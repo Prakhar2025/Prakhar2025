@@ -34,7 +34,7 @@
 | :--- | :--- |
 | **Focus** | Agentic AI fraud defense · hallucination verification · research-integrity gates |
 | **Stack** | TypeScript · Next.js · Python · FastAPI · AWS (Lambda, Bedrock, DynamoDB) · PostgreSQL · MongoDB |
-| **Proof** | 5 systems shipped with held-out metrics & CI-gated repro · 2 apps live on Google Play |
+| **Proof** | 5 systems shipped with held-out metrics & CI-gated repro · 2 apps live on Google Play Store |
 | **Research** | 2 published papers - IEEE PuneCon 2025 · i-manager JIP (deepfake detection) |
 | **Recognition** | AWS AIdeas Top 50 Global Finalist · India AI Impact Grand Finalist (Top 2% of 40,000+) · SBI Youth Ideathon National Winner (IIT Delhi) |
 
